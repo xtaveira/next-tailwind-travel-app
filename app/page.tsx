@@ -1,8 +1,6 @@
-import React from 'react'
-
 const Home = () => {
   return (
-    <h1 className="text-bol text-teal-500">
+    <h1 className="font-bold text-teal-500 text-2x1">
       Hello World!
     </h1>
   )
